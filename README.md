@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadymanda/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Aadymanda/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aadymanda/LeetCode/tree/master/0217-contains-duplicate) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aadymanda/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadymanda/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Aadymanda/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aadymanda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aadymanda/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
@@ -22,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aadymanda/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aadymanda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aadymanda/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aadymanda/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aadymanda/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
