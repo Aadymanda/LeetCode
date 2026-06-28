@@ -25,8 +25,11 @@ class Solution {
                         j++;
                     }
                    
-                   
+                    while (j < k && nums[k] == nums[k - 1]) {
+                        k--;
+                    }
                     j++;
+                    k--;
                   
 
                 }
