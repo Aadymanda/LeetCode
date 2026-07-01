@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aadymanda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Aadymanda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Aadymanda/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/Aadymanda/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aadymanda/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Aadymanda/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aadymanda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadymanda/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aadymanda/LeetCode/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -147,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aadymanda/LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
