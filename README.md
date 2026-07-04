@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Aadymanda/LeetCode/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aadymanda/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Aadymanda/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Aadymanda/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aadymanda/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadymanda/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Aadymanda/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2460-apply-operations-to-an-array](https://github.com/Aadymanda/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Aadymanda/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Aadymanda/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Trie
 |  |
 | ------- |
