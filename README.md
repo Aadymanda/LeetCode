@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aadymanda/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aadymanda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aadymanda/LeetCode/tree/master/0229-majority-element-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Aadymanda/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aadymanda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Aadymanda/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aadymanda/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Aadymanda/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Aadymanda/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Union-Find
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Aadymanda/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aadymanda/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aadymanda/LeetCode/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Aadymanda/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
