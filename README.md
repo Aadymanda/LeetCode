@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aadymanda/LeetCode/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aadymanda/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aadymanda/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Aadymanda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aadymanda/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aadymanda/LeetCode/tree/master/0706-design-hashmap) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aadymanda/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aadymanda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadymanda/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Aadymanda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aadymanda/LeetCode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aadymanda/LeetCode/tree/master/0706-design-hashmap) |
@@ -216,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aadymanda/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Aadymanda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
