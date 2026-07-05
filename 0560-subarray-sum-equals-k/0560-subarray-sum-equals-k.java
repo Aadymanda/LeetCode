@@ -1,26 +1,19 @@
 class Solution {
-    public int subarraySum(int[] arr, int k) {
-        int n=arr.length;
-        int prr[]=new int[n];
-        prr[0]=arr[0];
+    public int subarraySum(int[] nums, int k) {
+        HashMap<Integer, Integer> subNum = new HashMap<>();
+        subNum.put(0, 1);
+        int total = 0, count = 0;
 
-        int count=0;
-        if(prr[0]==k)count++;
-        for(int i=1;i<n;i++){
-           prr[i]=prr[i-1]+arr[i];
-           if(prr[i]==k){
-              count++;
-           }
-        }
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(k==prr[j]-prr[i]){
-                    count++;
-                }
+        for (int n : nums) {
+            total += n;
+
+            if (subNum.containsKey(total - k)) {
+                count += subNum.get(total - k);
             }
-        }
-        return count;
 
-        
+            subNum.put(total, subNum.getOrDefault(total, 0) + 1);
+        }
+
+        return count;        
     }
 }
