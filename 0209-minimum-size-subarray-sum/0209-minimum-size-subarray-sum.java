@@ -24,13 +24,7 @@ class Solution {
             }
             
         }
-        // while(l<arr.length){
-        //     if(sum-arr[l]>=target){
-        //         ans=Math.min(ans,r-l+1);
-        //         sum-=arr[l];
-        //     }
-        //     l++;
-        // }
+       
         return (ans==Integer.MAX_VALUE)?0:ans;
     }
 }
