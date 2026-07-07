@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aadymanda/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Aadymanda/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aadymanda/LeetCode/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aadymanda/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aadymanda/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Aadymanda/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Aadymanda/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadymanda/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aadymanda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
