@@ -1,38 +1,47 @@
 class Solution {
+    public void rev(int arr[],int i,int j){
+        while(i<j){
+            int temp=arr[i];
+            arr[i]=arr[j];
+            arr[j]=temp;
+            i++;
+            j--;
+        }
+    }
     public void nextPermutation(int[] arr) {
-        int n=arr.length;
-        int ind=-1;
-        for(int i=n-2;i>=0;i--){
-            if(arr[i]<arr[i+1]){
-                ind=i;
+        int n=arr.length-1;
+        int bp=-1;
+        int el=arr[n];
+        int min=Integer.MAX_VALUE;
+        for(int i=arr.length-2;i>=0;i--){
+             
+             if(arr[i]<arr[i+1]){
+                bp=i;
                 break;
-            }
+             }
 
         }
-        if(ind!=-1){
-        for(int i=n-1;i>ind;i--){
-                if(arr[i]>arr[ind]){
-                    int temp=arr[ind];
-                    arr[ind]=arr[i];
-                    arr[i]=temp;
-                    break;
-                }
-        }
-        }
-            int i=ind+1;
-            int j=n-1;
-            while(i<j){
-                int temp=arr[i];
-                arr[i]=arr[j];
-                arr[j]=temp;
-                j--;
-                i++;
+        if(bp!=-1){
+           int max=arr[bp];
+           int ans=-1;
+            for(int i=arr.length-1;i>=0;i--){
+
+               if(arr[i]>max){
+                ans=i;
+                break;
+               }
+
             }
-        
-        for( i=0;i<n;i++){
-           System.out.print(arr[i]+" ");
+            int temp=arr[bp];
+            arr[bp]=arr[ans];
+            arr[ans]=temp;
+
+
         }
-        System.out.println();
+        rev(arr,bp+1,n);
+        for(int i:arr){
+            System.out.print(i+" ");
+        }
         
     }
 }
