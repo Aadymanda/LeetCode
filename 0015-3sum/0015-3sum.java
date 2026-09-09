@@ -1,5 +1,6 @@
 class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {List<List<Integer>> ans=new ArrayList<>();
+    public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> ans=new ArrayList<>();
         if (nums == null || nums.length < 3) {
             return ans;
         }
@@ -25,11 +26,11 @@ class Solution {
                         j++;
                     }
                    
-                    while (j < k && nums[k] == nums[k - 1]) {
-                        k--;
-                    }
+                    // while (j < k && nums[k] == nums[k - 1]) {
+                    //     k--;
+                    // }
                     j++;
-                    k--;
+                   // k--;
                   
 
                 }
