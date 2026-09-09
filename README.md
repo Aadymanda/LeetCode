@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Aadymanda/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadymanda/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aadymanda/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Aadymanda/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Aadymanda/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aadymanda/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Aadymanda/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Aadymanda/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadymanda/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aadymanda/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aadymanda/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aadymanda/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Aadymanda/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aadymanda/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadymanda/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Aadymanda/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Aadymanda/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aadymanda/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aadymanda/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aadymanda/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aadymanda/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aadymanda/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aadymanda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aadymanda/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Aadymanda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/Aadymanda/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Interactive
 |  |
