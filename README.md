@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aadymanda/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aadymanda/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aadymanda/LeetCode/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/Aadymanda/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aadymanda/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aadymanda/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Aadymanda/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -385,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aadymanda/LeetCode/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aadymanda/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
