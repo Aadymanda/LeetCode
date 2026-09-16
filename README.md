@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Aadymanda/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Aadymanda/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadymanda/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aadymanda/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aadymanda/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Aadymanda/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aadymanda/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Aadymanda/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aadymanda/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aadymanda/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aadymanda/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
