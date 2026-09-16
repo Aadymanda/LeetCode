@@ -1,37 +1,35 @@
 class Solution {
-    public boolean check(int arr[],int h,int ans){
-        int count=0;
-        for(int i=0;i<arr.length;i++){
-            count+=(int)Math.ceil(arr[i]*1.0/ans*1.0);
-            if(count>h){
-                return false;
-            }
+    public long speed(int arr[],int mid,int h){
+       
+        long sum=0;
+        for(int i:arr){
+            sum+=(long)Math.ceil(i*1.0/mid*1.0);
         }
-        if(count>h){
-            return false;
-        }
-        return true;
+        return sum;
+
     }
     public int minEatingSpeed(int[] arr, int h) {
-        int i=1;
-        int j=0;
-        for(int k=0;k<arr.length;k++){
-            j=Math.max(j,arr[k]);
+        int si=1;
+        int ei=arr[0];
+        int best=0;
+        for(int i:arr){
+          
+            ei=Math.max(ei,i);
         }
-        int mid=-1;
-        int ans=0;
-        while(i<=j){
-            mid=i+(j-i)/2;
-            if(!check(arr,h,mid)){
-                i=mid+1;
+        while(si<=ei){
+            int mid=(si+ei)/2;
+            long ans=speed(arr,mid,h);
+             
+            if(ans<=h){
+                best=mid;
+                ei=mid-1;
+            
             }
             else{
-                ans=mid;
-                j=mid-1;
+                si=mid+1;
             }
         }
-        return ans;
-
+        return best;
 
         
     }
