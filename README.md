@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aadymanda/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aadymanda/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aadymanda/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Aadymanda/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Aadymanda/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Aadymanda/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Aadymanda/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aadymanda/LeetCode/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/Aadymanda/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aadymanda/LeetCode/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Aadymanda/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
